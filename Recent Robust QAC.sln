@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Typed Query Dataset Prepara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SogouTypedQueries", "SogouTypedQueries\SogouTypedQueries.csproj", "{8E1E43A1-48B6-42D5-B965-EC7523BB1176}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOLTypedQueries", "AOLTypedQueries\AOLTypedQueries.csproj", "{D280E7B1-892D-44D9-AD35-92A7776DDC86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{8E1E43A1-48B6-42D5-B965-EC7523BB1176}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E1E43A1-48B6-42D5-B965-EC7523BB1176}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E1E43A1-48B6-42D5-B965-EC7523BB1176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D280E7B1-892D-44D9-AD35-92A7776DDC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D280E7B1-892D-44D9-AD35-92A7776DDC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D280E7B1-892D-44D9-AD35-92A7776DDC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D280E7B1-892D-44D9-AD35-92A7776DDC86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E0CD728B-9D6F-42EF-8190-2BCB65E74339} = {2DC36116-C454-4FB9-83B8-1D88F4FBB14F}
 		{8E1E43A1-48B6-42D5-B965-EC7523BB1176} = {2DC36116-C454-4FB9-83B8-1D88F4FBB14F}
+		{D280E7B1-892D-44D9-AD35-92A7776DDC86} = {2DC36116-C454-4FB9-83B8-1D88F4FBB14F}
 	EndGlobalSection
 EndGlobal
