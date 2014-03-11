@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RRQAC")]
+[assembly: AssemblyTitle("SogouTypedQueries")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RRQAC")]
+[assembly: AssemblyProduct("SogouTypedQueries")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2dab519a-834e-437a-97e0-37162ec6a3f3")]
+[assembly: Guid("80ab8842-4089-459d-a862-967015eba36a")]
 
 // Version information for an assembly consists of the following four values:
 //
