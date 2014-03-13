@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-This git repo contains the accompanying query auto-completion (QAC) approach implementations detailed in the paper "Recent and Robust Query Auto-completion" (Whiting &amp; Jose), presented at the World Wide Web Conference (WWW) 2014 in Seoul/South Korea. 
+This git repo contains the accompanying query auto-completion (QAC) approach implementations detailed in the paper "Recent and Robust Query Auto-completion" (Stewart Whiting &amp; Joemon M. Jose - University of Glasgow), presented at the World Wide Web Conference (WWW) 2014 in Seoul/South Korea. 
 
 The central idea of this paper is simply: can QAC systems be optimised to support both always popular (i.e. robustness), and recently popular queries? You can read the full paper at: http://www.stewh.com/wp-content/uploads/2014/02/fp539-whiting.pdf. It is written to be accessible to as many readers as possible. Further elaboration on some of the techniques will be included in my thesis - whenever it is finished!
 
