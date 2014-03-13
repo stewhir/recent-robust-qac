@@ -1,3 +1,5 @@
+<strong>(This repo is work in progress - most code should be there, but I'm working on better documenting it!)</strong>
+
 <h2>Introduction</h2>
 
 This git repo contains the accompanying query auto-completion (QAC) approach implementations detailed in the paper "Recent and Robust Query Auto-completion" (Whiting &amp; Jose), presented at the World Wide Web Conference (WWW) 2014 in Seoul/South Korea. 
@@ -24,8 +26,14 @@ AOL - 705,244,335 bytes (672mb)
 MSN - 467,075,504 bytes (445mb)
 Sogou - 979,653,808 bytes (934mb)
 
+<h2>Running the Code from the Command Line</h2>
+You can start an experiment as follows:
 
+sog 2 ntb 2008-06-01 200 200
 
+(...more info coming!)
+
+<h2>Further Information</h2>
 
 If you have any questions on the code or approaches, then visit my website at http://www.stewh.com to find out how to contact me.
 
