@@ -16,6 +16,8 @@ For those wanting to reproduce the experiments in the paper (i.e. to use as a ba
 
 The code is all C# .Net 4.5 and built in Visual Studio 2013. Heavy use is made of threading and the Task Parallel Library and Amib SmartThreadPool for multi-threaded optimisation where possible. I have set the project explicitly to build in 64bit since the memory requirements will be quite high for some QAC approaches.
 
+<strong>Note:</strong> In the code, we refer to the 'LNQ' (i.e. Last N queries) approach as 'NTB' (i.e. 'non temporal bucket'). This was an early research convention that has remained in the code. Apologies for the inconsistency - I will change it when I get a chance, but there are a lot of references to NTB!
+
 <h2>System Requirements</h2>
 I run 2 instances of this code simultaneously on a 4 core i7 with 24gb of RAM. The high performing LNQ approaches run relatively efficiently, so you shouldn't need as much memory for them. Naturally, running time varies per approach and dataset.
 
