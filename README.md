@@ -1,4 +1,4 @@
-<strong>(This repo is work in progress - most code should be there, but I'm working on better documenting it!)</strong>
+<strong>(This repo is work in progress - most code should be there, but I'm working on better documenting it and improving the code which evolved during the research!)</strong>
 
 <h2>Introduction</h2>
 
