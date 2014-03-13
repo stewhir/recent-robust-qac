@@ -12,7 +12,10 @@ For those wanting to reproduce the experiments in the paper (i.e. to use as a ba
 
 <h2>Source Code</h2>
 
-The code is all .Net 4.5 C# and built in Visual Studio 2013. Heavy use is made of threading and the Task Parallel Library for multi-threading where possible.
+The code is all C# .Net 4.5 and built in Visual Studio 2013. Heavy use is made of threading and the Task Parallel Library and Amib SmartThreadPool for multi-threaded optimisation where possible. I have set the project explicitly to build in 64bit since the memory requirements will be quite high for some QAC approaches.
+
+<h2>System Requirements</h2>
+I run 2 instances of this code simultaneously on a 4 core i7 with 24gb of RAM. The high performing LNQ approaches run relatively efficiently, so you shouldn't need as much memory for them. Naturally, running time varies per approach and dataset.
 
 <h2>Creating the Typed Query Datasets for Experiments</h2>
 
