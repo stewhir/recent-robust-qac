@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace OnlineTrainingRunReducer
 {
+    /// <summary>
+    /// Coming soon...
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
