@@ -1,4 +1,4 @@
-<strong>(This repo is work in progress - most code should be there, but I'm working on better documenting it and improving the code which evolved during the research! This is the first time I've extensively released research code - so, if you have any feedback then please let me know.)</strong>
+<strong>(This repo is work in progress - most code should be there, but I'm working on better documenting it and improving the code which evolved during many late night research hacking sessions! This is the first time I've extensively released research code - so, if you have any feedback then please let me know.)</strong>
 
 
 <h2>Introduction</h2>
